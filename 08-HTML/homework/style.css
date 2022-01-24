@@ -1,0 +1,24 @@
+html{
+    background-color: blue;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: cyan;
+    padding: 50px;
+    border: 5px solid lightblue;
+}
+
+h1{
+   color: cornsilk; 
+}
+
+img{
+    width: 400px;
+}
+
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+}
