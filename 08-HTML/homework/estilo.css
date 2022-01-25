@@ -1,0 +1,50 @@
+html{
+    background-color: lightblue;
+}
+
+#thirdDiv{
+    height: 300px;
+    width: 300px;
+    padding: 0px;
+    border: 10px solid blue;
+    position: absolute;
+    margin-top: auto;
+    right: 0;
+}
+
+h1{
+   color: cornsilk;
+   font-style: italic; 
+   font-size: xx-large;
+}
+
+h2{
+    font-size: x-large;
+}
+
+h3{
+    font-size: x-large;
+}
+
+h4{
+    font-size: x-large;
+}
+
+h5{
+    font-size: x-large;
+}
+
+h6{
+    font-size: x-large;
+}
+
+img{
+    width: 300px;
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
